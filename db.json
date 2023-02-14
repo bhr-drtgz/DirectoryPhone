@@ -1,0 +1,56 @@
+{
+  "phoneNumber": [
+    {
+      "id": 1,
+      "name": "Bahri",
+      "surname": "Dörtgöz",
+      "number": "05554567834",
+      "categoryId": "1"
+    },
+    {
+      "id": 2,
+      "name": "Ahmet",
+      "surname": "Mert",
+      "number": "05554067834",
+      "categoryId": "2"
+    },
+    {
+      "id": 3,
+      "name": "Yavuz",
+      "surname": "Kaya",
+      "number": "05594567834",
+      "categoryId": "2"
+    },
+    {
+      "id": 4,
+      "name": "Dogan",
+      "surname": "Sarı",
+      "number": "05544567845",
+      "categoryId": "3"
+    },
+    {
+      "id": 5,
+      "name": "Hüseyin ",
+      "surname": " TÜRK Kahraman",
+      "number": "054353445658"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Ailem"
+    },
+    {
+      "id": "2",
+      "name": "iş Arkadaşlarım"
+    },
+    {
+      "id": "3",
+      "name": "Asker Arkadaşlarım"
+    },
+    {
+      "id": "4",
+      "name": "Okul Arkadaşlarım"
+    }
+  ]
+}
